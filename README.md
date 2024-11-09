@@ -1,2 +1,2 @@
-# orchestra
-Google Classroom but better
+# clamshell
+Google Classroom but better (and self-hosted)
